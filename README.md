@@ -1,3 +1,3 @@
 # MathFun
-![example workflow](https://github.com/Krishika510/MathFun/travis.yml/badge.svg)
+[![Build Status](https://app.travis-ci.com/Krishika510/MathFun.svg?branch=main)](https://app.travis-ci.com/Krishika510/MathFun)
 A stab at creating a good repository with all possible features embedded.
