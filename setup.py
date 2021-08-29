@@ -4,8 +4,6 @@
 #2 Check if we need to add all team members as authors here. Stackoverflow say no:
 # https://stackoverflow.com/questions/9999829/how-to-specify-multiple-authors-emails-in-setup-py
 
-#3 ADD LISCENCE in classifiers
-
 
 from setuptools import setup
 
@@ -16,6 +14,7 @@ setup(
 		author="Krishika Shivnani",
 		author_email="krishika510@gmail.com",
 		url="https://github.com/Krishika510/MathFun",
+		license="MIT",
 		packages=["MathFun"],
 		long_description="""\
 				This module contains some fun math functions:
@@ -28,6 +27,7 @@ setup(
 			"Programming Language :: Python",
 			"Development Status :: 1 - Planning",
 			"Intended Audience :: Developers",
+			"License :: OSI Approved :: MIT License",
 			"Topic :: Education"
 		],
 		keywords="fibonacci factorial prime"
