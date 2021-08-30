@@ -4,6 +4,7 @@ def fibonacci(i):
 	"""
 	if i <= 0:
 		return -1
+		#Fixing the code again
 	if i <= 2:
 		return 1
 
