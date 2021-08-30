@@ -26,3 +26,9 @@ def test_prime():
     assert prime(1) == 2
     assert prime(5) == 11
     assert prime(101) == -1
+
+if __name__ == '__main__':
+    test_prime()
+    test_fibonacci()
+    test_factorial()
+    test_isPrime()
