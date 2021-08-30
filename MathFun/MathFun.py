@@ -36,6 +36,8 @@ def isPrime(i):
 	"""
 	This function returns if i is a prime number or not.
 	"""
+	if i <= 1:
+		return False
 
 	for k in range(2, int(i**0.5)+1):
 		if i%k == 0:
