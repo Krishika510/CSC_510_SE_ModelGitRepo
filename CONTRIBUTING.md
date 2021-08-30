@@ -4,7 +4,7 @@ Follow the set of guidelines below to contribute to Math.fun!
 
 ## Code of Conduct
 
-By participating, you are expected to uphold this code. Please report unacceptable behavior to.
+By participating, you are expected to uphold this code. Please report unacceptable behavior to [Krishika Shivnani, Arpitha Vijayakumar, Ishan Bhatt, Apurva Sonavane, Prema Naga Unnati Nadupalli]
 
 Prerequistes required before starting this project
 
