@@ -2,7 +2,7 @@ def fibonacci(i):
 	"""
 	This function finds the ith number in the Fibonaci series, -1 otherwise.
 	"""
-	if i <= 0:
+	if i < 0:
 		return -1
 	if i <= 2:
 		return 1
