@@ -6,8 +6,10 @@ name: Testing the application
 on:
   push:
     branches: [ main ]
+    branches: [ apurva-s-testing-the-code ]
   pull_request:
     branches: [ main ]
+    branches: [ apurva-s-testing-the-code ]
 
 jobs:
   build:
