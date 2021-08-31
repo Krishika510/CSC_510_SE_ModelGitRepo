@@ -30,6 +30,6 @@ setup(
 			"License :: OSI Approved :: MIT License",
 			"Topic :: Education"
 		],
-		keywords="fibonacci factorial prime"
+		keywords="fibonacci factorial prime",
 		install_requires=[]
 	)
