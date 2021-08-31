@@ -12,7 +12,7 @@ def test_fibonacci():
 def test_factorial():
     assert factorial(-1) == -1,"Negative numbers should yield -1 for all, they do not have a factorial"
     assert factorial(-2) == -1,"Negative numbers should yield -1 for all, they do not have a factorial"
-    assert factorial(0) == 1,"Factorial of 0 or 1 should be 1, the output is something else"
+    assert factorial(0) == -1,"Anything below or equal to 0 is -1, we have a restricted range"
     assert factorial(1) == 1,"Factorial of 0 or 1 should be 1, the output is something else"
     assert factorial(2) == 2,"Factorial of 2 is 2, the output is something else"
     assert factorial(20) == -1,"Anything above 10 is -1, we have a restricted range"
