@@ -3,8 +3,7 @@ import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # import sample
-import MathFun
-
+from MathFun import fibonacci, factorial, isPrime, prime
 def test_fibonacci():
     assert fibonacci(-8) == -1
     assert fibonacci(1) == 1
