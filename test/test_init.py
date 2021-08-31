@@ -1,6 +1,7 @@
 import os
 import sys
-# from MathFun import *
+sys.path.append("../Mathfun")
+import MathFun
 
 
 def test_fibonacci():
