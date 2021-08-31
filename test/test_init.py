@@ -1,8 +1,8 @@
 import os
 import sys
-import sys
-sys.path.insert(0, '/MathFun/MathFun')
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+# import sample
 import MathFun
 
 def test_fibonacci():
