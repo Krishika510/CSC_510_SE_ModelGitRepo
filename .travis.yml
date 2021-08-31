@@ -1,3 +1,4 @@
+name: MathFun
 language: python
 python:
   - "2.7"
