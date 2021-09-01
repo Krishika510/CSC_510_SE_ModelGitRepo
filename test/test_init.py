@@ -1,7 +1,7 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from Mathfun.MathFun import fibonacci, factorial, isPrime, prime
+from MathFun.MathFun import fibonacci, factorial, isPrime, prime
 
 def test_fibonacci():
     assert fibonacci(-8) == -1, "Negative numbers should yield -1 for all values less than 0"
