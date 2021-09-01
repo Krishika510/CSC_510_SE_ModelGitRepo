@@ -28,8 +28,8 @@ def test_isPrime():
     assert isPrime(13) == True,"13 is a prime number, the output is wrong"
 
 def test_prime():
-    assert prime(-1) == -1
-    assert prime(1) == 2
-    assert prime(5) == 11
-    assert prime(101) == -1
+    assert prime(-1) == -1,"We only check the numbers between 0 and 100"
+    assert prime(1) == 2,"the first prime number is 2, that should be the output"
+    assert prime(5) == 11,"5th prime number is 11, that should be the output"
+    assert prime(101) == -1,"We only check the numbers between 0 and 100"
 
