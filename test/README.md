@@ -1,11 +1,11 @@
 
-#Testing
+# Testing
 
 --- 
 
 In this section we test the code of our project. 
 
-###What are we testing? 
+### What are we testing? 
 ___
 In our project we implemented 4 functionalities
 
@@ -16,7 +16,7 @@ In our project we implemented 4 functionalities
     
 
 
-###How do we test?
+### How do we test?
 
 ---
 
