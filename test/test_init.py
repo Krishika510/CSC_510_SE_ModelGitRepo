@@ -4,10 +4,10 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 from MathFun.MathFun import fibonacci, factorial, isPrime, prime
 
 def test_fibonacci():
-    assert fibonacci(-8) == -1 "Negative numbers should yield -1 for all values less than 0"
-    assert fibonacci(1) == 1 "fibonacci(1) should return the first element in the fibonacci series ie 1"
-    assert fibonacci(5) == 5 "fibonacci(5) should return the fifth element in the fibonacci series ie 5"
-    assert fibonacci(10) == 55 "fibonacci(10) should return the tenth element in the fibonacci series ie 10"
+    assert fibonacci(-8) == -1, "Negative numbers should yield -1 for all values less than 0"
+    assert fibonacci(1) == 1, "fibonacci(1) should return the first element in the fibonacci series ie 1"
+    assert fibonacci(5) == 5, "fibonacci(5) should return the fifth element in the fibonacci series ie 5"
+    assert fibonacci(10) == 55, "fibonacci(10) should return the tenth element in the fibonacci series ie 10"
 
 def test_factorial():
     assert factorial(-1) == -1,"Negative numbers should yield -1 for all, they do not have a factorial"
