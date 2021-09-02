@@ -2,7 +2,7 @@
 [![Build Status](https://app.travis-ci.com/Krishika510/MathFun.svg?branch=main)](https://app.travis-ci.com/Krishika510/MathFun)
 [![DOI](https://zenodo.org/badge/400883811.svg)](https://zenodo.org/badge/latestdoi/400883811) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br />
-MathFun is about solving some problems of maths.  
+MathFun is about implementation of baisc problems in maths.  
   
 Below are the functions and there description which are in MathFun:  
 **1. fibonacci(i):** This function finds the ith number in the Fibonaci series, -1 otherwise.  
