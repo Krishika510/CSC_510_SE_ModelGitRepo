@@ -1,5 +1,6 @@
 # MathFun - Software Engineering HW2b
 <img src="https://github.com/Krishika510/MathFun/blob/main/MathFun/GIF0209.gif" width="300px">
+<img src="https://github.com/Krishika510/MathFun/blob/main/MathFun/D6fJ.gif" width="300px">
 
 [![Build Status](https://app.travis-ci.com/Krishika510/MathFun.svg?branch=main)](https://app.travis-ci.com/Krishika510/MathFun)
 [![DOI](https://zenodo.org/badge/400883811.svg)](https://zenodo.org/badge/latestdoi/400883811) 
